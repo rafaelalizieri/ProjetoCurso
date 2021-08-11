@@ -1,0 +1,17 @@
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\bin\Debug\netcoreapp2.1\SaleWebMvc.deps.json
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\bin\Debug\netcoreapp2.1\SaleWebMvc.runtimeconfig.json
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\bin\Debug\netcoreapp2.1\SaleWebMvc.runtimeconfig.dev.json
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\bin\Debug\netcoreapp2.1\SaleWebMvc.dll
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\bin\Debug\netcoreapp2.1\SaleWebMvc.pdb
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.csprojAssemblyReference.cache
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.AssemblyInfoInputs.cache
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.AssemblyInfo.cs
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.RazorAssemblyInfo.cache
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.RazorAssemblyInfo.cs
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.RazorTargetAssemblyInfo.cache
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.dll
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.pdb
+C:\Users\CarvalimaADM\Documents\Curso Rafaela\SaleWebMvc\SaleWebMvc\obj\Debug\netcoreapp2.1\SaleWebMvc.genruntimeconfig.cache
